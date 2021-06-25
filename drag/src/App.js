@@ -42,8 +42,6 @@ function App() {
         e.preventDefault()
   }
 
-
-  console.log(containerItems)
   return (
     <div className="App">
       <div className='sidebar'>
